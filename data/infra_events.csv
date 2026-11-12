@@ -1,0 +1,11 @@
+event_id,type,name,locality,stage,expected_year,source,source_tier,published,summary
+E1,metro,Metro Line X extension (fictional),Wakad,under_construction,2028,State metro corporation notice (sample),gov,2026-09-14,Station planned within about 1 km of Wakad main road
+E2,metro,Metro Line Y corridor (fictional),Hadapsar,announced,2030,National newspaper report (sample),national,2026-10-02,Corridor announced; alignment not final
+E3,airport,Airport expansion phase 2 (fictional),Wagholi,sanctioned,2029,Airport authority release (sample),gov,2026-08-20,Terminal and cargo expansion sanctioned
+E4,industry,Tech park phase 2 (fictional),Hinjewadi,under_construction,2027,State industrial corporation notice (sample),gov,2026-07-11,New IT campus under construction
+E5,college,New engineering college campus (fictional),Undri,announced,2029,Local newspaper report (sample),local,2026-10-25,Campus announced by a trust; land not yet acquired
+E6,school,International school campus (fictional),Kharadi,operational,2025,Education department list (sample),gov,2025-06-01,School operational since 2025
+E7,metro,Metro station Baner (fictional),Baner,under_construction,2027,State metro corporation notice (sample),gov,2026-05-30,Elevated station under construction
+E8,industry,IT SEZ expansion (fictional),Kharadi,sanctioned,2028,State industrial corporation notice (sample),gov,2026-09-03,SEZ expansion sanctioned
+E9,college,University campus expansion (fictional),Kothrud,operational,2024,University notice (sample),gov,2024-08-15,New academic block operational
+E10,metro,Metro Line Z rumoured stop (fictional),Pimple Saudagar,rumoured,2032,Social media post (sample),social,2026-11-01,Unverified; no official notice
